@@ -16,16 +16,16 @@ Hint: They try to lie a lot.
 
 + [video2](https://twitter.com/CollegeOfScript/status/1615154629637029889)
 
-Name: Harris, Kamala
-Words: "-and our President Joe Biden-"
-Shows:
-* Hand Shrug
-* Nods No
-* Hand Shrug Expulsion
-* Both Hands Attempting Control
-* Eyebrows Upwards
-* Hand Shrug Double
-* Hands Together Temp
+  Name: Harris, Kamala
+  Words: "-and our President Joe Biden-"
+  Shows:
+  * Hand Shrug
+  * Nods No
+  * Hand Shrug Expulsion
+  * Both Hands Attempting Control
+  * Eyebrows Upwards
+  * Hand Shrug Double
+  * Hands Together Temp
 
 
 
