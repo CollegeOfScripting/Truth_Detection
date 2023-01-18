@@ -19,13 +19,13 @@ Hint: They try to lie a lot.
 Name: Harris, Kamala
 Words: "-and our President Joe Biden-"
 Shows:
-  * Hand Shrug
-  * Nods No
-  * Hand Shrug Expulsion
-  * Both Hands Attempting Control
-  * Eyebrows Upwards
-  * Hand Shrug Double
-  * Hands Together Temp
+* Hand Shrug
+* Nods No
+* Hand Shrug Expulsion
+* Both Hands Attempting Control
+* Eyebrows Upwards
+* Hand Shrug Double
+* Hands Together Temp
 
 
 
