@@ -7,6 +7,7 @@ Hint: They try to lie a lot.
 + [video1](https://twitter.com/CollegeOfScript/status/1610768219823915018)
 
   Name: Harris, Kamala
+  
   Words: "We did it."
   Shows:
   * Hand on Head
@@ -17,6 +18,7 @@ Hint: They try to lie a lot.
 + [video2](https://twitter.com/CollegeOfScript/status/1615154629637029889)
 
   Name: Harris, Kamala
+  
   Words: "-and our President Joe Biden-"
   Shows:
   * Hand Shrug
