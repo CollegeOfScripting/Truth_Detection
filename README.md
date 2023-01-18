@@ -13,6 +13,7 @@ Hint: They try to lie a lot.
   Shows:
   * Hand on Head
   * Hand Falls in Defeat
+  * Turns Away From Statement
   * Nervous Laugh
   * Walks Away From Statement
 ##
