@@ -4,7 +4,7 @@ Hint: They try to lie a lot.
 
 
 # Harris, Kamala
-+ [video1](https://twitter.com/CollegeOfScript/status/1610768219823915018)
++ [video](https://twitter.com/CollegeOfScript/status/1610768219823915018)
 
   Name: Harris, Kamala
   
@@ -16,7 +16,7 @@ Hint: They try to lie a lot.
   * Nervous Laugh
   * Walks Away From Statement
 ##
-+ [video2](https://twitter.com/CollegeOfScript/status/1615154629637029889)
++ [video](https://twitter.com/CollegeOfScript/status/1615154629637029889)
 
   Name: Harris, Kamala
   
