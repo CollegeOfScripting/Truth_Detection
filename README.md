@@ -13,7 +13,7 @@ Hint: They try to lie a lot.
   * Hand Falls in Defeat
   * Nervous Laugh
   * Walks Away From Statement
-
+##
 + [video2](https://twitter.com/CollegeOfScript/status/1615154629637029889)
 
   Name: Harris, Kamala
@@ -26,7 +26,7 @@ Hint: They try to lie a lot.
   * Eyebrows Upwards
   * Hand Shrug Double
   * Hands Together Temp
-
+##
 
 
 
