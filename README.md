@@ -5,6 +5,7 @@ Hint: They try to lie a lot.
 
 # Harris, Kamala
 + [video1](https://twitter.com/CollegeOfScript/status/1610768219823915018)
+
   Name: Harris, Kamala
   Words: "We did it."
   Shows:
@@ -14,6 +15,7 @@ Hint: They try to lie a lot.
   * Walks Away From Statement
 
 + [video2](https://twitter.com/CollegeOfScript/status/1615154629637029889)
+
 Name: Harris, Kamala
 Words: "-and our President Joe Biden-"
 Shows:
