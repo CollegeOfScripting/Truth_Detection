@@ -9,6 +9,7 @@ Hint: They try to lie a lot.
   Name: Harris, Kamala
   
   Words: "We did it."
+  
   Shows:
   * Hand on Head
   * Hand Falls in Defeat
@@ -20,6 +21,7 @@ Hint: They try to lie a lot.
   Name: Harris, Kamala
   
   Words: "-and our President Joe Biden-"
+  
   Shows:
   * Hand Shrug
   * Nods No
